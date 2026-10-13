@@ -37,8 +37,22 @@ Dotfiles are **not** managed by Nix — they live in the bare git repo
 
 ## Install on the target machine
 
-1. **Boot the NixOS minimal ISO**, partition & mount your disks to `/mnt`
-   (and the EFI partition to `/mnt/boot`). Pick `<host>` = `desktop` or `laptop` below.
+1. **Boot the NixOS minimal ISO**, partition your disks, then mount them. The
+   mount points must exist first, and `/mnt/boot` is created *after* root is mounted:
+   ```sh
+   sudo cryptsetup open /dev/<root-part> cryptroot   # if root is LUKS
+   sudo mkdir -p /mnt
+   sudo mount /dev/mapper/cryptroot /mnt             # or /dev/<root-part> if unencrypted
+   sudo mkdir -p /mnt/boot
+   sudo mount /dev/<esp-part> /mnt/boot
+   ```
+   Pick `<host>` = `desktop` or `laptop` below.
+
+   *Already installed NixOS (e.g. via the graphical installer) and booted into it?*
+   Skip `nixos-install`: copy `/etc/nixos/hardware-configuration.nix` over
+   `hosts/<host>/hardware-configuration.nix`, then run
+   `sudo nixos-rebuild switch --flake ~/nix#<host> --option experimental-features 'nix-command flakes'`.
+   Point `--flake` at the repo **directory**, not at `flake.nix`.
 
    *Laptop:* turn **Secure Boot off** in the BIOS (F2).
 
