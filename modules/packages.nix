@@ -25,6 +25,7 @@
     ##### Browsers #####
     brave
     chromium
+	firefox
 
     ##### Comms / media #####
     discord
