@@ -16,6 +16,7 @@
 
     # oh-my-pi (`omp`) coding agent. Keeps its own nixpkgs pin so the build matches upstream.
     oh-my-pi.url = "github:can1357/oh-my-pi";
+	dnsglobe.url = "github:514-labs/dnsglobe";
   };
 
   outputs = { self, nixpkgs, ... }@inputs:

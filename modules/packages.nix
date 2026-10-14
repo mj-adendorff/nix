@@ -21,6 +21,7 @@
   environment.systemPackages = with pkgs; [
     ##### AI coding agent (flake input, see flake.nix) #####
     inputs.oh-my-pi.packages.${pkgs.stdenv.hostPlatform.system}.default  # omp
+    inputs.dnsglobe.packages.${pkgs.stdenv.hostPlatform.system}.default  # dnsglobe
 
     ##### Browsers #####
     brave
@@ -122,10 +123,16 @@
     btrfs-progs
     snapper
     btrfs-assistant
-    # ventoy-full   # marked insecure in nixpkgs (opaque blobs); add "ventoy-1.1.17" to nixpkgs.config.permittedInsecurePackages to re-enable
     macchanger
 
+	##### TUI tools
+	netwatch
+	mcat
+	posting         # TUI HTTP client (v2 from nixpkgs; v3 has no release yet)
+	(callPackage ../pkgs/lazyjira.nix { })  # prebuilt release binary
+
     ##### Security / pentest toolkit (you had a full set) #####
+	angryoxide
     aircrack-ng
     hashcat
     metasploit
@@ -142,7 +149,8 @@
 
   # ---------------------------------------------------------------------------
   # NOT in nixpkgs (were AUR/-bin packages). Handle separately if you want them:
-  #   snappy-switcher, hyprpwcenter, lazyjira-bin, havn   -> build manually / find flake
+  #   snappy-switcher, hyprpwcenter, havn                 -> build manually / find flake
+  #   (lazyjira-bin: packaged locally in pkgs/lazyjira.nix)
 #   bookokrat-bin, pdf-tui-bin, pwndbg                  -> not packaged (pwndbg: use its flake)
 #   networkmanager-pptp                                 -> not packaged (l2tp is, see configuration.nix)
   #   etcher-bin                                          -> removed from nixpkgs (Electron EOL); use `dd`/ventoy/gnome-disks
