@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="62"
+   width="62"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="rogue-legacy.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.9140625"
+     inkscape:cx="44.470277"
+     inkscape:cy="50.303831"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g6"
+     transform="matrix(0.98214286,0,0,0.98245614,-0.42857152,-0.92982455)">
+    <path
+       d="M 42,19 C 44,13 44,12 42,9 40,6 39,5 32,5 24,5 10,25 10,25 l 8,-3 c 0,0 -3,11 -14,11 0,2 6,3 9,3 9,0 25.458249,-6.374747 29,-17 z"
+       style="opacity:0.2"
+       id="path1" />
+    <path
+       d="M 42,18 C 44,12 44,11 42,8 40,5 39,4 32,4 24,4 10,24 10,24 l 8,-3 c 0,0 -3,11 -14,11 0,2 6,3 9,3 9,0 25.458249,-6.374747 29,-17 z"
+       style="fill:#c83771"
+       id="path2" />
+    <path
+       style="opacity:0.2;fill:#ffffff"
+       d="M 32,4 C 24,4 10,24 10,24 l 1.003906,-0.376953 C 14.243854,19.222608 25.228327,5 32,5 c 7,0 8,1 10,4 0.88026,1.32039 1.349676,2.265854 1.455078,3.408203 C 43.588894,10.754493 43.119529,9.6792935 42,8 40,5 39,4 32,4 Z M 18,22 17.580078,22.158203 C 16.491414,24.929096 12.8686,32 4,32 4,32.36059 4.2017344,32.686845 4.5390625,32.982422 15.093576,32.626863 18,22 18,22 Z"
+       id="path3" />
+    <path
+       style="opacity:0.2"
+       d="M 41,16 C 21,16 18,30 18,30 v 22 c 0,9 12,9 12,9 H 40 V 47 H 29 V 36 h 11 l 3,6 3,-6 H 57 V 47 H 46 v 14 c 0,0 14,0 14,-9 V 30 C 60,30 57,16 41,16 Z"
+       id="path4" />
+    <path
+       style="fill:#e5e5e5;fill-opacity:1"
+       d="M 41,15 C 21,15 18,29 18,29 v 22 c 0,9 12,9 12,9 H 40 V 46 H 29 V 35 h 11 l 3,6 3,-6 H 57 V 46 H 46 v 14 c 0,0 14,0 14,-9 V 29 C 60,29 57,15 41,15 Z"
+       id="path5" />
+    <path
+       style="opacity:0.2;fill:#ffffff"
+       d="M 41,15 C 21,15 18,29 18,29 v 1 c 0,0 3,-14 23,-14 16,0 19,14 19,14 V 29 C 60,29 57,15 41,15 Z M 29,46 v 1 h 11 v -1 z m 17,0 v 1 h 11 v -1 z"
+       id="path6" />
+  </g>
+</svg>

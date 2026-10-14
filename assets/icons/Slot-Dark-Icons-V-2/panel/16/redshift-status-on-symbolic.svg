@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 24 24"
+   width="24"
+   height="24"
+   sodipodi:docname="redshift-status-on-symbolic.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="22.892582"
+     inkscape:cx="10.57111"
+     inkscape:cy="17.232656"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     showgrid="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+.ColorScheme-Text { 
+    color:#f2f2f2;
+}
+</style>
+  </defs>
+  <g
+     transform="matrix(1.0588236,0,0,1.0588236,0.35294023,0.35294049)"
+     id="g1">
+    <path
+       id="path7932"
+       d="m 15.277738,2.5001961 c 0,0 -2.722255,-0.061851 -3.739513,2.0127517 -0.301633,0.6151659 -0.515899,1.4148394 -0.478361,2.2762775 0.03753,0.8614387 0.344312,1.7893369 1.083591,2.5522529 0.561641,0.579604 0.806064,1.1338418 0.917198,1.5375748 0.111133,0.403734 0.0894,0.610052 0.0894,0.610052 6.3e-4,0.0046 0.0012,0.01006 0.002,0.01451 -0.0016,0.01006 -0.0029,0.01929 -0.0039,0.02904 v 1.062405 2.124802 c 2.1e-5,0.140872 0.05613,0.275972 0.155983,0.375577 l 1.064868,1.062397 c 0.09981,0.09966 0.235195,0.155607 0.376397,0.155635 h 1.064866 c 0.141202,-2.8e-5 0.276607,-0.05601 0.376446,-0.155628 l 1.064869,-1.064474 c 0.09989,-0.09964 0.155964,-0.234703 0.155985,-0.375579 v -2.122716 -1.064479 c -2.02e-4,-0.01319 -8.94e-4,-0.0263 -0.002,-0.03941 0,0 1.93e-4,-0.01018 0,-0.01242 10e-7,-6.91e-4 10e-7,-0.0013 0,-0.002 10e-7,-6.92e-4 10e-7,-0.0013 0,-0.002 10e-7,-6.92e-4 10e-7,-0.0013 0,-0.002 -0.0025,-0.04322 -0.0092,-0.237393 0.08942,-0.59345 0.111183,-0.403587 0.35561,-0.9557428 0.917254,-1.5353507 C 19.151484,8.5809215 19.458193,7.6509036 19.495736,6.789465 19.533258,5.9279838 19.318999,5.1283099 19.017362,4.5131444 18.07374,2.588712 15.690533,2.5066613 15.346481,2.5045422 c -0.02272,-0.00289 -0.04571,-0.00427 -0.0686,-0.00411 z m 0,9.5636859 c 0,0 -0.0026,-6.7e-4 0,0 v 0 0 0 0 0 c 0,0 -1.1e-5,-0.002 0,0 h 1.064865 -2.129728 z M 10.677196,3.5688226 c -0.179555,-0.00469 -0.359213,-0.00328 -0.538679,0.00411 C 5.7324823,3.7647254 2.316268,7.4832968 2.5076652,11.879173 2.6999029,16.275 6.4271054,19.683306 10.833179,19.492352 12.56884,19.409382 14.230028,18.76394 15.564765,17.653905 11.364662,17.564581 7.9519894,14.244158 7.7571145,10.057354 7.6552295,7.5570355 8.736587,5.1542058 10.677183,3.5688219 Z M 7.9380588,5.1271485 C 7.0495019,6.6307853 6.6167764,8.3591192 6.6922472,10.103004 c 0.1612367,3.587702 2.4379862,6.739087 5.7985338,8.02611 -0.552852,0.171667 -1.125114,0.273441 -1.70337,0.302949 C 6.9680737,18.598414 3.7368134,15.644064 3.5704395,11.833555 3.4486129,8.898872 5.2007913,6.2084314 7.9380588,5.1271485 Z m 6.2748162,7.9991305 h 2.129728 v 1.062405 h -2.129728 z"
+       style="paint-order:markers fill stroke;-inkscape-stroke:none;stroke-width:1.06364;fill-opacity:1;fill:currentColor;"
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       sodipodi:nodetypes="ccscsccccccccccccccccsscccsccccccccccccccsssssscccccccccccccccccccccccccc"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

@@ -39,6 +39,27 @@
   # GTK theming support tools you used (nwg-look / lxappearance) need this.
   programs.dconf.enable = true;
 
+  # GTK themes and icon themes from ./assets, copied (not symlinked, so they
+  # stay writable) into ~/.themes and ~/.icons on every rebuild. Selection is
+  # done by nwg-look / hyprland.conf; ~/.icons/default (nwg-look's cursor
+  # file) is left untouched.
+  # Runs after "users" so the account exists for install/chown on fresh machines.
+  system.activationScripts.userThemes.deps = [ "users" ];
+  system.activationScripts.userThemes.text = ''
+    for kind in themes icons; do
+      src=${../assets}/$kind
+      dst=/home/mjadendorff/.$kind
+      ${pkgs.coreutils}/bin/install -d -o mjadendorff -g users "$dst"
+      for d in "$src"/*; do
+        name=$(${pkgs.coreutils}/bin/basename "$d")
+        ${pkgs.coreutils}/bin/rm -rf "$dst/$name"
+        ${pkgs.coreutils}/bin/cp -a --no-preserve=mode,ownership "$d" "$dst/$name"
+        ${pkgs.coreutils}/bin/chmod -R u+rwX,go+rX "$dst/$name"
+        ${pkgs.coreutils}/bin/chown -hR mjadendorff:users "$dst/$name"
+      done
+    done
+  '';
+
   # Polkit agent so GUI privilege prompts work under Hyprland.
   security.polkit.enable = true;
   systemd.user.services.polkit-gnome-authentication-agent-1 = {

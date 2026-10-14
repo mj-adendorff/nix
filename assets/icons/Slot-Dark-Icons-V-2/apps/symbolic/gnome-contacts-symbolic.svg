@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="gnome-contacts-symbolic.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.409091"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+  </defs>
+  <path
+     style="fill:currentColor;stroke-width:1.1428"
+     class="ColorScheme-Text"
+     d="m 11,3 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -8,-8 z m 0,3.428572 c 2.52572,0 4.57142,2.045714 4.57142,4.571428 v 0.57142 c 0,0.94858 -0.7657,1.7143 -1.71428,1.7143 -0.50286,0 -0.98332,-0.22754 -1.31474,-0.61612 -0.4,0.37714 -0.94812,0.61612 -1.5424,0.61612 C 9.74286,13.28572 8.714286,12.25714 8.714286,11 8.714286,9.74286 9.74286,8.714286 11,8.714286 c 1.25714,0 2.28572,1.028574 2.28572,2.285714 v 0.57142 c 0,0.32 0.25142,0.57144 0.57142,0.57144 0.32,0 0.57144,-0.25144 0.57144,-0.57144 V 11 C 14.42858,9.102858 12.89714,7.571428 11,7.571428 9.102858,7.571428 7.571428,9.102858 7.571428,11 c 0,1.89714 1.53143,3.42858 3.428572,3.42858 h 2.85714 c 0,0 0.57144,0 0.57144,0.57142 -0.03431,0.57142 -0.57144,0.57142 -0.57144,0.57142 H 11 C 8.474286,15.57142 6.428572,13.52572 6.428572,11 6.428572,8.474286 8.474286,6.428572 11,6.428572 Z m 0,3.428568 c -0.62858,0 -1.14286,0.51428 -1.14286,1.14286 0,0.62858 0.51428,1.14286 1.14286,1.14286 0.62858,0 1.14286,-0.51428 1.14286,-1.14286 0,-0.62858 -0.51428,-1.14286 -1.14286,-1.14286 z"
+     id="path1" />
+</svg>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1"
+   id="svg19"
+   sodipodi:docname="FAHControl.svg"
+   inkscape:version="1.4.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs19" />
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.828125"
+     inkscape:cx="32"
+     inkscape:cy="29.886394"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <g
+     id="g19"
+     transform="matrix(0.98039216,0,0,0.98245614,-0.8627452,-0.92982455)">
+    <circle
+       style="opacity:0.2"
+       cx="28"
+       cy="54"
+       r="7"
+       id="circle1" />
+    <circle
+       style="fill:#ff6bf4"
+       cx="18"
+       cy="39"
+       r="7"
+       id="circle2" />
+    <circle
+       style="fill:#cd87de"
+       cx="28"
+       cy="53"
+       r="7"
+       id="circle3" />
+    <circle
+       style="opacity:0.2"
+       cx="20"
+       cy="50"
+       r="11"
+       id="circle4" />
+    <circle
+       style="fill:#c83771"
+       cx="20"
+       cy="49"
+       r="11"
+       id="circle5" />
+    <circle
+       style="opacity:0.2"
+       cx="40"
+       cy="42"
+       r="13"
+       id="circle6" />
+    <circle
+       style="fill:#8d5fd3"
+       cx="40"
+       cy="41"
+       r="13"
+       id="circle7" />
+    <circle
+       style="opacity:0.2"
+       cx="35"
+       cy="31"
+       r="18"
+       id="circle8" />
+    <circle
+       style="fill:#ffd42a"
+       cx="35"
+       cy="30"
+       r="18"
+       id="circle9" />
+    <circle
+       style="opacity:0.2"
+       cx="15"
+       cy="53"
+       r="8"
+       id="circle10" />
+    <circle
+       style="fill:#cd87de"
+       cx="15"
+       cy="52"
+       r="8"
+       id="circle11" />
+    <path
+       style="opacity:0.2;fill-rule:evenodd"
+       d="m 32.183206,29.511169 c -2.045022,7.4855 -6.94371,13.08356 -14.575829,11.077826 C 9.9752578,38.583263 5.4460188,30.889099 7.4910382,23.403599 c 2.04502,-7.4855 9.8898918,-11.927728 17.5220118,-9.921994 7.632118,2.005732 9.215174,8.544064 7.170156,16.029564 z"
+       id="path11" />
+    <path
+       style="fill:#008080;fill-rule:evenodd"
+       d="M 32.183206,28.51117 C 30.138184,35.99667 25.239496,41.59473 17.607377,39.588996 9.9752578,37.583264 5.4460188,29.8891 7.4910382,22.4036 9.5360582,14.918101 17.38093,10.475873 25.01305,12.481607 c 7.632118,2.005732 9.215174,8.544063 7.170156,16.029563 z"
+       id="path12" />
+    <path
+       style="opacity:0.2;fill:#ffffff;fill-rule:evenodd"
+       d="m 21.798828,12.009766 c -0.354759,-0.01199 -0.70896,-0.01176 -1.060547,0.002 -6.094173,0.237654 -11.5845149,4.30861 -13.2460935,10.390578 -0.3733258,1.366504 -0.5035459,2.737714 -0.4570313,4.082031 0.037136,-1.021054 0.1759542,-2.05319 0.4570313,-3.082031 1.6615786,-6.081968 7.1519205,-10.152924 13.2460935,-10.390625 1.406347,-0.05485 2.842416,0.09267 4.273438,0.46875 5.463027,1.435691 7.79529,5.207375 7.943359,9.974609 0.159728,-5.236266 -2.103645,-9.439924 -7.943359,-10.974609 -1.073267,-0.282057 -2.148615,-0.434724 -3.212891,-0.470703 z"
+       id="path13" />
+    <circle
+       style="fill:#00ccff"
+       cx="50"
+       cy="12"
+       r="8"
+       id="circle13" />
+    <path
+       style="opacity:0.2;fill:#ffffff;fill-rule:evenodd"
+       d="m 50,4 a 8,8 0 0 0 -8,8 8,8 0 0 0 0.02344,0.400391 A 8,8 0 0 1 50,5 8,8 0 0 1 57.974609,12.476562 8,8 0 0 0 58,12 8,8 0 0 0 50,4 Z"
+       id="path14" />
+    <circle
+       style="opacity:0.2"
+       cx="48"
+       cy="28"
+       r="8"
+       id="circle14" />
+    <circle
+       style="fill:#00ccff"
+       cx="48"
+       cy="27"
+       r="8"
+       id="circle15" />
+    <circle
+       style="opacity:0.2"
+       cx="46"
+       cy="20"
+       r="11"
+       id="circle16" />
+    <circle
+       style="fill:#0066ff"
+       cx="46"
+       cy="19"
+       r="11"
+       id="circle17" />
+    <path
+       style="opacity:0.2;fill-rule:evenodd"
+       d="m 43,19 c 0,4.418278 -2.146188,8 -6.363636,8 C 32.418916,27 29,23.418278 29,19 29,14.581723 32.418916,11 36.636364,11 40.853812,11 43,14.581723 43,19 Z"
+       id="path17" />
+    <path
+       style="fill:#00ccff;fill-rule:evenodd"
+       d="m 43,18 c 0,4.418278 -2.146188,8 -6.363636,8 C 32.418916,26 29,22.418278 29,18 29,13.581723 32.418916,10 36.636364,10 40.853812,10 43,13.581723 43,18 Z"
+       id="path18" />
+    <path
+       style="opacity:0.2;fill:#ffffff;fill-rule:evenodd"
+       d="M 36.636719,10 C 32.419271,10 29,13.581723 29,18 c 0,0.112312 0.02148,0.218493 0.03125,0.328125 C 29.357583,14.224846 32.635667,11 36.636719,11 c 4.00229,0 6.134205,3.226939 6.341797,7.332031 C 42.984874,18.221074 43,18.113679 43,18 43,13.581723 40.854167,10 36.636719,10 Z"
+       id="path19" />
+  </g>
+</svg>
