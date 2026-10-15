@@ -33,6 +33,7 @@
     delta            # git-delta
     gh               # github-cli
     lazygit
+	poetry
 
     # Build essentials
     gcc

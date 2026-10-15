@@ -33,10 +33,10 @@
 
   # Lid close -> suspend (s2idle on Lunar Lake). logind default, made explicit;
   # ignore the lid when docked to an external display.
-  services.logind.settings.Login = {
-    HandleLidSwitch = "suspend";
-    HandleLidSwitchDocked = "ignore";
-  };
+  # services.logind.settings.Login = {
+  #   HandleLidSwitch = "suspend";
+  #   HandleLidSwitchDocked = "ignore";
+  # };
 
   ###########################################################################
   ## Audio

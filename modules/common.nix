@@ -40,8 +40,9 @@
   ###########################################################################
   networking.networkmanager = {
     enable = true; # replaces NetworkManager + nm-applet stack
-    plugins = [ pkgs.networkmanager-l2tp ];
+    plugins = [ pkgs.networkmanager-l2tp pkgs.networkmanager-strongswan ];
   };
+
 
   # Pi SMB share. Automounted on first access; the timeouts keep it from
   # hanging when the machine (i.e. the laptop) is away from the home network.
