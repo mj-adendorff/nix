@@ -32,8 +32,11 @@
     git-lfs
     delta            # git-delta
     gh               # github-cli
+	ty
+	ruff
     lazygit
 	poetry
+	cool-retro-term
 
     # Build essentials
     gcc

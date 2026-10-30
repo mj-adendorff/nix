@@ -16,6 +16,8 @@
 
   # Make Electron/Chromium apps (Brave, Discord, Spotify, Cursor, Zed, VSCode) run native Wayland
   environment.sessionVariables.NIXOS_OZONE_WL = "1";
+  environment.sessionVariables.EDITOR = "nvim";
+  environment.sessionVariables.VISUAL = "nvim";
 
   # ---------------------------------------------------------------------------
   # Login manager: greetd + tuigreet (matches your CachyOS greetd-tuigreet setup).

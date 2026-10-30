@@ -55,6 +55,7 @@
     source-han-sans
     # Nerd Fonts — note the new namespaced attribute style on recent nixpkgs:
     nerd-fonts.caskaydia-cove   # Cascadia Code NF
+    nerd-fonts.terminess-ttf    # Terminus
     nerd-fonts.meslo-lg         # Meslo NF
     nerd-fonts._0xproto         # 0xProto NF
     nerd-fonts.zed-mono         # ZedMono NF
